@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: white;
+}
+.live{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    margin: 20px auto;
+}
+.covid{
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.card_main{
+    color:black;
+    width: 17rem;
+    height: 8rem;
+    background-color: aliceblue;
+    
+    font-weight: bolder;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 10) 0px 7px 20px 0px;
+    
+}
+
+.l2{
+    background-color: #3e5da5;
+}
+.l6{
+    background-color: #eb5133;
+}
+.l5{
+    background-color: #ff8133;
+}
+.l3{
+    background-color: #ffc247;
+}
+.l4{
+    background-color: #76cd65;
+}
+.l1{
+    background-color: #88dae7;
+}
+.card_main:hover{
+    box-shadow: white;
+}
+.card{
+    list-style-type: none;
+
+}
